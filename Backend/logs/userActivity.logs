@@ -1,0 +1,99 @@
+[info] - Authentication API Logs;  Jul-14-2024 13:13:34; Message: Request received: GET /checkEmail/nitishnalatawad111@gmail.com
+[info] - Authentication API Logs;  Jul-14-2024 13:13:34; Message: Request received: GET /checkUsername/Nitish
+[info] - Authentication API Logs;  Jul-14-2024 13:13:43; Message: Request received: GET /checkEmail/nitishnalatawad111@gmail.com
+[info] - Authentication API Logs;  Jul-14-2024 13:13:43; Message: Request received: GET /checkUsername/Nitishhh
+[info] - Authentication API Logs;  Jul-14-2024 13:13:43; Message: Request received: POST /register
+[info] - Authentication API Logs;  Jul-14-2024 13:13:43; Message: Registered successfully. Username: Nitishhh, Email: nitishnalatawad111@gmail.com
+[info] - Authentication API Logs;  Jul-14-2024 13:14:02; Message: Request received: POST /login
+[error] - Authentication API Logs;  Jul-14-2024 13:14:02; Message: User tried to login with invalid credentials
+[info] - Authentication API Logs;  Jul-14-2024 13:14:25; Message: Request received: POST /login
+[error] - Authentication API Logs;  Jul-14-2024 13:14:25; Message: User tried to login with invalid credentials
+[info] - Authentication API Logs;  Jul-14-2024 13:14:54; Message: Request received: POST /resetPassword
+[info] - Authentication API Logs;  Jul-14-2024 13:14:58; Message: Request received: POST /resetPassword
+[info] - Authentication API Logs;  Jul-14-2024 13:16:35; Message: Request received: GET /checkEmail/pallu@gmail.com
+[info] - Authentication API Logs;  Jul-14-2024 13:16:35; Message: Request received: GET /checkUsername/pallavi
+[info] - Authentication API Logs;  Jul-14-2024 13:16:35; Message: Request received: POST /register
+[info] - Authentication API Logs;  Jul-14-2024 13:16:35; Message: Registered successfully. Username: pallavi , Email: pallu@gmail.com
+[info] - Authentication API Logs;  Jul-14-2024 13:16:43; Message: Request received: POST /login
+[info] - Authentication API Logs;  Jul-14-2024 13:16:43; Message: Login successful. Username: pallavi 
+[info] - Authentication API Logs;  Jul-14-2024 13:16:53; Message: Request received: GET /allUsers
+[info] - Authentication API Logs;  Jul-14-2024 13:16:53; Message: All users details were displayed successfully
+[info] - Authentication API Logs;  Jul-14-2024 13:17:42; Message: Request received: POST /login
+[error] - Authentication API Logs;  Jul-14-2024 13:17:42; Message: User tried to login with invalid credentials
+[info] - Authentication API Logs;  Jul-14-2024 13:17:51; Message: Request received: POST /login
+[info] - Authentication API Logs;  Jul-14-2024 13:17:51; Message: Login successful. Username: Nitishhh
+[info] - Authentication API Logs;  Jul-14-2024 13:17:53; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Jul-14-2024 13:17:53; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Jul-16-2024 20:13:52; Message: Request received: POST /login
+[info] - Authentication API Logs;  Jul-16-2024 20:13:52; Message: Login successful. Username: Nitishhh
+[info] - Authentication API Logs;  Jul-16-2024 20:13:54; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Jul-16-2024 20:13:54; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Jul-16-2024 20:13:58; Message: Request received: GET /getAssetById/13
+[info] - Authentication API Logs;  Jul-16-2024 20:13:58; Message: Asset details were displayed by ID successfully
+[info] - Authentication API Logs;  Jul-16-2024 20:14:03; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Jul-16-2024 20:14:04; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Jul-16-2024 20:19:01; Message: Asset Request created successfully
+[info] - Authentication API Logs;  Jul-16-2024 20:19:15; Message: Request received: POST /login
+[info] - Authentication API Logs;  Jul-16-2024 20:19:15; Message: Login successful. Username: pallavi 
+[info] - Authentication API Logs;  Jul-16-2024 20:19:25; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Jul-16-2024 20:19:25; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Jul-16-2024 20:20:25; Message: Request received: GET /getAssetById/13
+[info] - Authentication API Logs;  Jul-16-2024 20:20:25; Message: Asset details were displayed by ID successfully
+[info] - Authentication API Logs;  Jul-16-2024 20:20:45; Message: Request received: GET /allUsers
+[info] - Authentication API Logs;  Jul-16-2024 20:20:45; Message: All users details were displayed successfully
+[info] - Authentication API Logs;  Aug-01-2024 22:09:11; Message: Request received: GET /checkEmail/peava11@gmail.com
+[info] - Authentication API Logs;  Aug-01-2024 22:09:12; Message: Request received: GET /checkUsername/praveen%20teli
+[info] - Authentication API Logs;  Aug-01-2024 22:09:12; Message: Request received: POST /register
+[info] - Authentication API Logs;  Aug-01-2024 22:09:12; Message: Registered successfully. Username: praveen teli, Email: peava11@gmail.com
+[info] - Authentication API Logs;  Aug-01-2024 22:09:33; Message: Request received: POST /login
+[info] - Authentication API Logs;  Aug-01-2024 22:09:33; Message: Login successful. Username: praveen teli
+[info] - Authentication API Logs;  Aug-01-2024 22:09:43; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Aug-01-2024 22:09:43; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Aug-01-2024 22:09:55; Message: Request received: GET /allUsers
+[info] - Authentication API Logs;  Aug-01-2024 22:09:55; Message: All users details were displayed successfully
+[info] - Authentication API Logs;  Aug-02-2024 23:09:30; Message: Request received: POST /login
+[info] - Authentication API Logs;  Aug-02-2024 23:09:30; Message: Login successful. Username: praveen teli
+[info] - Authentication API Logs;  Aug-02-2024 23:09:43; Message: Request received: POST /login
+[info] - Authentication API Logs;  Aug-02-2024 23:09:43; Message: Login successful. Username: raghu torvi
+[info] - Authentication API Logs;  Aug-02-2024 23:09:45; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Aug-02-2024 23:09:45; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Aug-02-2024 23:09:51; Message: Asset Request created successfully
+[info] - Authentication API Logs;  Aug-02-2024 23:16:07; Message: Request received: POST /login
+[info] - Authentication API Logs;  Aug-02-2024 23:16:07; Message: Login successful. Username: raghu torvi
+[info] - Authentication API Logs;  Aug-02-2024 23:16:09; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Aug-02-2024 23:16:09; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Aug-02-2024 23:16:12; Message: Asset Request created successfully
+[info] - Authentication API Logs;  Aug-02-2024 23:16:40; Message: Asset service Request created successfully
+[info] - Authentication API Logs;  Aug-02-2024 23:16:47; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Aug-02-2024 23:16:47; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Aug-02-2024 23:16:56; Message: Request received: POST /login
+[info] - Authentication API Logs;  Aug-02-2024 23:16:56; Message: Login successful. Username: sukanya torvi
+[info] - Authentication API Logs;  Aug-02-2024 23:17:02; Message:  got All Asset Request successfully 
+[info] - Authentication API Logs;  Aug-02-2024 23:17:22; Message: Asset Request updated successfully
+[info] - Authentication API Logs;  Aug-02-2024 23:17:24; Message:  got All Asset Request successfully 
+[info] - Authentication API Logs;  Aug-02-2024 23:18:43; Message: Request received: POST /login
+[info] - Authentication API Logs;  Aug-02-2024 23:18:43; Message: Login successful. Username: raghu torvi
+[info] - Authentication API Logs;  Aug-02-2024 23:18:45; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Aug-02-2024 23:18:45; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Aug-02-2024 23:19:16; Message: Asset Request created successfully
+[info] - Authentication API Logs;  Aug-02-2024 23:19:33; Message: Request received: POST /login
+[info] - Authentication API Logs;  Aug-02-2024 23:19:33; Message: Login successful. Username: sukanya torvi
+[info] - Authentication API Logs;  Aug-02-2024 23:19:40; Message:  got All Asset Request successfully 
+[info] - Authentication API Logs;  Aug-02-2024 23:20:08; Message: Asset Request updated successfully
+[info] - Authentication API Logs;  Aug-03-2024 11:35:41; Message: Request received: GET /checkEmail/sankar11@gmail.com
+[info] - Authentication API Logs;  Aug-03-2024 11:35:42; Message: Request received: GET /checkUsername/sankar
+[info] - Authentication API Logs;  Aug-03-2024 11:35:42; Message: Request received: POST /register
+[info] - Authentication API Logs;  Aug-03-2024 11:35:42; Message: Registered successfully. Username: sankar, Email: sankar11@gmail.com
+[info] - Authentication API Logs;  Aug-03-2024 11:35:47; Message: Request received: POST /login
+[info] - Authentication API Logs;  Aug-03-2024 11:35:47; Message: Login successful. Username: sankar
+[info] - Authentication API Logs;  Aug-03-2024 11:35:49; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Aug-03-2024 11:35:49; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Aug-03-2024 12:13:59; Message: Request received: GET /checkEmail/hexa11@gmail.com
+[info] - Authentication API Logs;  Aug-03-2024 12:14:00; Message: Request received: GET /checkUsername/hexaware
+[info] - Authentication API Logs;  Aug-03-2024 12:14:00; Message: Request received: POST /register
+[info] - Authentication API Logs;  Aug-03-2024 12:14:00; Message: Registered successfully. Username: hexaware, Email: hexa11@gmail.com
+[info] - Authentication API Logs;  Aug-03-2024 12:14:05; Message: Request received: POST /login
+[info] - Authentication API Logs;  Aug-03-2024 12:14:05; Message: Login successful. Username: hexaware
+[info] - Authentication API Logs;  Aug-03-2024 12:14:07; Message: Request received: GET /getAllAssets
+[info] - Authentication API Logs;  Aug-03-2024 12:14:07; Message: All assets details were displayed successfully
+[info] - Authentication API Logs;  Aug-03-2024 12:14:22; Message: Asset Request created successfully
